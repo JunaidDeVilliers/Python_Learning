@@ -1,5 +1,6 @@
 import random
 
+# Dictionary to store the ASCII art representation of each die face
 dice_art = {
     1: ("┌─────────┐",
         "│         │",
