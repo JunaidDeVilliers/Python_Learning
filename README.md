@@ -9,7 +9,6 @@ Welcome to my Python Learning repository! This repository serves as a collection
 - Python libraries and frameworks  
 - Mini projects & challenges  
 - Notes and useful references  
-- **HackerRank challenges to sharpen problem-solving skills**  
 
 ## 🎯 Goals  
 - Master Python fundamentals  
@@ -18,7 +17,7 @@ Welcome to my Python Learning repository! This repository serves as a collection
 - Document my learning progress  
 
 ## 📚 Resources  
-I am using a mix of online courses, documentation, and hands-on coding to strengthen my understanding. Additionally, I am actively solving **HackerRank challenges** to further develop my problem-solving abilities.  
+I am using a mix of online courses, documentation, and hands-on coding to strengthen my understanding. Additionally, I am actively solving engaging in projects to further develop my problem-solving abilities.  
 
 Feel free to explore, learn, and contribute!  
 
