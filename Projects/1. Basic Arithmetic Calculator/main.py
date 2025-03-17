@@ -4,9 +4,18 @@ if __name__ == '__main__':
     print("Welcome to the Basic Arithmetic Calculator")
     
     valid_operation = False
+    
+    num1 = ""
+    num2 = ""
 
-    num1 = float(input("Enter your first number: "))
-    num2 = float(input("Enter your second number: "))
+    while num1.isnumeric() == False:
+        num1 = input("Enter your first number: ")
+    
+    while num2.isnumeric() == False:
+        num2 = input("Enter your second number: ")
+
+    num1 = float(num1)
+    num2 = float(num2)
 
     calc = Calculate()
 
@@ -31,4 +40,5 @@ if __name__ == '__main__':
 
 # 1. Fix the divide by 0
 # 2. Add process to redo until opting out
-# 3. Add process to ensure a number is input
+# 3. Give more details with final print statement
+# 4. Optimize and modularize
